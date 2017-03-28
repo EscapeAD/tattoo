@@ -1,0 +1,14 @@
+{
+  "name": "tattoo",
+  "version": "0.0.1",
+  "description": "tattoo booking",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Tse & Shane Beehler",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
